@@ -1,0 +1,10 @@
+.circle{
+  border-radius: 50%;
+}
+.container{
+  height: 100vh;
+}
+.box{
+  height: 300px;
+  width: 300px;
+}
